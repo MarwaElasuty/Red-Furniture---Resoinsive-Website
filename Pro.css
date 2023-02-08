@@ -1,0 +1,133 @@
+.o-button_slider_link {
+    display: block;
+    height: 100%;
+    color: rgb(98, 64, 64);
+    border: 5px solid darkcyan;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    border-radius: 50px;
+    font-size: 25px;
+}
+a{
+text-decoration: none;
+color: white;
+font-family: cursive;
+}
+span
+{
+    background-color: white;
+    border-radius: 50px;
+}
+.pricepara{
+    font-family: monospace;
+    color: darkblue;
+}
+
+
+body{
+  background-color:rgb(5,44,37);
+}
+:root {
+    scroll-behavior: smooth;
+  }
+
+  .descpara{
+    /* margin-top: 30px; */
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;    
+    line-height: 2.3rem;
+    font-family: FarnhamDisplay,serif;
+    color: white;
+
+  }
+  .col{
+    margin-top: 30px;
+  }
+
+  .col span{
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+   .col strong{
+    font-size: 30px;
+    font-family: "Moderat Trial",sans-serif;
+    margin-left: 15px;
+    }
+
+    .btn{
+        margin-top: 10px;
+        font-family: "Moderat Trial",sans-serif;
+    }
+.col .chairword{
+    font-family: FarnhamDisplay,serif;
+    font-size: 46px;
+    color: wheat;
+}
+
+.c-heading{
+    font-weight: 700;
+    font-size: 21vw;
+    letter-spacing: -.05em;
+    color: #fff;
+    font-family:Brush Script MT;
+    text-align: center;
+    margin-bottom: 0;
+}
+.col img{
+    margin-bottom: 10px;
+}
+
+.float-start{
+    margin-top: 90px;
+}
+.image:hover{
+  opacity: 1;
+}
+td{
+  font-family: "Moderat Trial",sans-serif;
+  font-size: 1.125rem;
+
+}
+thead{
+  font-family: FarnhamDisplay,serif;
+  font-size: 50px;
+}
+th{
+  font-size: 1.125rem;
+
+}
+
+
+.buybtn{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.buybtn:hover{
+  color: white;
+  box-shadow: 0 20px 20px 0 rgba(0,0,0,0.29), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+
+
+.c-action_link {
+  position: relative;
+  display: inline-block;
+  font-family: "Rockwell";
+  font-weight: 700;
+  color: #eee;
+  margin-left: 0px;
+  transition: color .3s cubic-bezier(.4,0,0,1);
+  background-color: transparent;
+  text-align: center;
+
+}
+.c-action_link:hover{
+  color: black;
+}
+
